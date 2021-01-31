@@ -1,6 +1,6 @@
 # Trivia Night!
-Charles DeVane
-James Kos
+Charles DeVane, 
+James Kos,
 Freguens Mildort
 
 ## Topic - Jeopardy Style Trivia Game
